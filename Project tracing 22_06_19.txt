@@ -1,0 +1,40 @@
+ExcelParser:
+	- Tutto il codice libero è stato spostato sotto creando la seguente struttura:
+		function1()
+		.
+		.
+		.
+		.
+		functionN()
+	
+		Free code
+	- Alcuni commenti eliminati
+	
+	- Nella funzione parser: 
+		- Aggiunta la linea  JsonManager.writeJSON(dataToWrite, file) per creare il file JSON
+	- Nel codice libero, aggiunta la seguente linea:
+		- filesPath, file = JsonManager.initPath('results')
+
+
+JsonManager:
+	- Eliminata la classe. Ora il file contiene solamente le funzioni che erano dentro la classe
+	- Aggiunga la funzione initPath:
+		- la linea os.path.dirName(...)... è stata modificata con os.getcwd() + /data/
+	- Eliminata l'inizializzazione della variabile diet
+	- Eliminata la seguente linea:
+		- diet = rm.findDiet(content['Sample'])
+	- Eliminata l'inizializzazione della variabile data
+	
+__init__:
+	- Eliminata la seguente print: 
+		- print("Jesus Created!!!666")
+		
+
+Aggiustata la struttura di alcuni import
+Rinominato il progetto
+Eliminata la cartella v0.2
+
+
+
+
+	
