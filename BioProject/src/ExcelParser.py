@@ -113,7 +113,7 @@ TargetSource.reset_index()
 # Obtains the data frame with the genes and the miRNAs
 resulting = pd.merge(TargetSource, miRNADf, how = 'inner', on=['miRNA'])
 resulting.drop_duplicates(inplace=True)
-resulting.reset_index(inplace=True)
+resulting.reset_index(inplace=True, drop=True)
 print(resulting)
 
 
