@@ -1,0 +1,2062 @@
+{
+  "nodes": [
+    {
+      "id": "mmu-miR-339-5p",
+      "group": 1
+    },
+    {
+      "id": "Ecm2",
+      "group": 7
+    },
+    {
+      "id": "Kdelc2",
+      "group": 7
+    },
+    {
+      "id": "Ocln",
+      "group": 7
+    },
+    {
+      "id": "Nrcam",
+      "group": 7
+    },
+    {
+      "id": "Senp5",
+      "group": 7
+    },
+    {
+      "id": "Xrcc2",
+      "group": 7
+    },
+    {
+      "id": "Nip7",
+      "group": 7
+    },
+    {
+      "id": "Tex9",
+      "group": 7
+    },
+    {
+      "id": "Grin2b",
+      "group": 7
+    },
+    {
+      "id": "Vsig10",
+      "group": 7
+    },
+    {
+      "id": "Rnd1",
+      "group": 7
+    },
+    {
+      "id": "Slc15a1",
+      "group": 7
+    },
+    {
+      "id": "Lyrm9",
+      "group": 7
+    },
+    {
+      "id": "Rbm11",
+      "group": 7
+    },
+    {
+      "id": "Rad1",
+      "group": 7
+    },
+    {
+      "id": "Gjc3",
+      "group": 7
+    },
+    {
+      "id": "Stam",
+      "group": 7
+    },
+    {
+      "id": "Fadd",
+      "group": 7
+    },
+    {
+      "id": "Grap2",
+      "group": 7
+    },
+    {
+      "id": "Gtpbp3",
+      "group": 7
+    },
+    {
+      "id": "Car8",
+      "group": 7
+    },
+    {
+      "id": "Decr2",
+      "group": 7
+    },
+    {
+      "id": "Cenpl",
+      "group": 7
+    },
+    {
+      "id": "Tspan13",
+      "group": 7
+    },
+    {
+      "id": "Osbpl8",
+      "group": 7
+    },
+    {
+      "id": "Irak2",
+      "group": 7
+    },
+    {
+      "id": "Zfp729a",
+      "group": 7
+    },
+    {
+      "id": "Elmo2",
+      "group": 7
+    },
+    {
+      "id": "Zfp446",
+      "group": 7
+    },
+    {
+      "id": "Sgms2",
+      "group": 7
+    },
+    {
+      "id": "Cybrd1",
+      "group": 7
+    },
+    {
+      "id": "Slc35e1",
+      "group": 7
+    },
+    {
+      "id": "Fnip2",
+      "group": 7
+    },
+    {
+      "id": "Fam208a",
+      "group": 7
+    },
+    {
+      "id": "Samd8",
+      "group": 7
+    },
+    {
+      "id": "Mdc1",
+      "group": 7
+    },
+    {
+      "id": "Cracr2b",
+      "group": 7
+    },
+    {
+      "id": "Slc8b1",
+      "group": 7
+    },
+    {
+      "id": "Tbl1xr1",
+      "group": 7
+    },
+    {
+      "id": "Dnajc1",
+      "group": 7
+    },
+    {
+      "id": "Agtrap",
+      "group": 7
+    },
+    {
+      "id": "Kcnk6",
+      "group": 7
+    },
+    {
+      "id": "Mfap1a",
+      "group": 7
+    },
+    {
+      "id": "Ppih",
+      "group": 7
+    },
+    {
+      "id": "Zbtb44",
+      "group": 7
+    },
+    {
+      "id": "Gdpgp1",
+      "group": 7
+    },
+    {
+      "id": "Syt15",
+      "group": 7
+    },
+    {
+      "id": "Rab11b",
+      "group": 7
+    },
+    {
+      "id": "Ube2v2",
+      "group": 7
+    },
+    {
+      "id": "Kif24",
+      "group": 7
+    },
+    {
+      "id": "Tmem263",
+      "group": 7
+    },
+    {
+      "id": "Cdk7",
+      "group": 7
+    },
+    {
+      "id": "Mkl2",
+      "group": 7
+    },
+    {
+      "id": "Mzt1",
+      "group": 7
+    },
+    {
+      "id": "Epb42",
+      "group": 7
+    },
+    {
+      "id": "Iws1",
+      "group": 7
+    },
+    {
+      "id": "Strbp",
+      "group": 7
+    },
+    {
+      "id": "Mbd4",
+      "group": 7
+    },
+    {
+      "id": "Timmdc1",
+      "group": 7
+    },
+    {
+      "id": "Ttc23",
+      "group": 7
+    },
+    {
+      "id": "Dhrs7b",
+      "group": 7
+    },
+    {
+      "id": "Gng2",
+      "group": 7
+    },
+    {
+      "id": "Gfpt1",
+      "group": 7
+    },
+    {
+      "id": "Wipf2",
+      "group": 7
+    },
+    {
+      "id": "Ston2",
+      "group": 7
+    },
+    {
+      "id": "6030458C11Rik",
+      "group": 7
+    },
+    {
+      "id": "Siglece",
+      "group": 7
+    },
+    {
+      "id": "Mcc",
+      "group": 7
+    },
+    {
+      "id": "Ercc6",
+      "group": 7
+    },
+    {
+      "id": "Gm4925",
+      "group": 7
+    },
+    {
+      "id": "Knop1",
+      "group": 7
+    },
+    {
+      "id": "Ptk6",
+      "group": 7
+    },
+    {
+      "id": "Il1rl1",
+      "group": 7
+    },
+    {
+      "id": "Gata1",
+      "group": 7
+    },
+    {
+      "id": "Smad9",
+      "group": 7
+    },
+    {
+      "id": "Cts8",
+      "group": 7
+    },
+    {
+      "id": "Paxip1",
+      "group": 7
+    },
+    {
+      "id": "Zfp354a",
+      "group": 7
+    },
+    {
+      "id": "Lpp",
+      "group": 7
+    },
+    {
+      "id": "Ajuba",
+      "group": 7
+    },
+    {
+      "id": "Rinl",
+      "group": 7
+    },
+    {
+      "id": "Dars2",
+      "group": 7
+    },
+    {
+      "id": "2010315B03Rik",
+      "group": 7
+    },
+    {
+      "id": "Rbm34",
+      "group": 7
+    },
+    {
+      "id": "Ddx19b",
+      "group": 7
+    },
+    {
+      "id": "Polr1b",
+      "group": 7
+    },
+    {
+      "id": "Zbtb8a",
+      "group": 7
+    },
+    {
+      "id": "Fam118a",
+      "group": 7
+    },
+    {
+      "id": "Dclre1c",
+      "group": 7
+    },
+    {
+      "id": "Xkrx",
+      "group": 7
+    },
+    {
+      "id": "Dnase2a",
+      "group": 7
+    },
+    {
+      "id": "Ttyh1",
+      "group": 7
+    },
+    {
+      "id": "C5ar2",
+      "group": 7
+    },
+    {
+      "id": "Tigd3",
+      "group": 7
+    },
+    {
+      "id": "Slc35e2",
+      "group": 7
+    },
+    {
+      "id": "Disp3",
+      "group": 7
+    },
+    {
+      "id": "Stom",
+      "group": 7
+    },
+    {
+      "id": "Ogfod1",
+      "group": 7
+    },
+    {
+      "id": "Klhl41",
+      "group": 7
+    },
+    {
+      "id": "Cdk8",
+      "group": 7
+    },
+    {
+      "id": "Ddo",
+      "group": 7
+    },
+    {
+      "id": "2810006K23Rik",
+      "group": 7
+    },
+    {
+      "id": "Dusp3",
+      "group": 7
+    },
+    {
+      "id": "Cbln3",
+      "group": 7
+    },
+    {
+      "id": "Agl",
+      "group": 7
+    },
+    {
+      "id": "Zfp780b",
+      "group": 7
+    },
+    {
+      "id": "Bloc1s3",
+      "group": 7
+    },
+    {
+      "id": "Kif21b",
+      "group": 7
+    },
+    {
+      "id": "Efr3b",
+      "group": 7
+    },
+    {
+      "id": "P2ry4",
+      "group": 7
+    },
+    {
+      "id": "March2",
+      "group": 7
+    },
+    {
+      "id": "Cd93",
+      "group": 7
+    },
+    {
+      "id": "Zmat3",
+      "group": 7
+    },
+    {
+      "id": "Pycr1",
+      "group": 7
+    },
+    {
+      "id": "Smtnl2",
+      "group": 7
+    },
+    {
+      "id": "Tnfrsf10b",
+      "group": 7
+    },
+    {
+      "id": "Mcm5",
+      "group": 7
+    },
+    {
+      "id": "Cyb5d2",
+      "group": 7
+    },
+    {
+      "id": "Tox4",
+      "group": 7
+    },
+    {
+      "id": "Isg20l2",
+      "group": 7
+    },
+    {
+      "id": "Ube2j2",
+      "group": 7
+    },
+    {
+      "id": "Adra2b",
+      "group": 7
+    },
+    {
+      "id": "Rfxank",
+      "group": 7
+    },
+    {
+      "id": "Senp1",
+      "group": 7
+    },
+    {
+      "id": "Spib",
+      "group": 7
+    },
+    {
+      "id": "Eno2",
+      "group": 7
+    },
+    {
+      "id": "Zbtb8b",
+      "group": 7
+    },
+    {
+      "id": "Parp11",
+      "group": 7
+    },
+    {
+      "id": "4930519G04Rik",
+      "group": 7
+    },
+    {
+      "id": "Gal3st3",
+      "group": 7
+    },
+    {
+      "id": "Ccdc127",
+      "group": 7
+    },
+    {
+      "id": "Kif3a",
+      "group": 7
+    },
+    {
+      "id": "Nosip",
+      "group": 7
+    },
+    {
+      "id": "Acer1",
+      "group": 7
+    },
+    {
+      "id": "Ifnar1",
+      "group": 7
+    },
+    {
+      "id": "Mfsd11",
+      "group": 7
+    },
+    {
+      "id": "Tstd2",
+      "group": 7
+    },
+    {
+      "id": "Ranbp3l",
+      "group": 7
+    },
+    {
+      "id": "Fam227a",
+      "group": 7
+    },
+    {
+      "id": "Pex13",
+      "group": 7
+    },
+    {
+      "id": "Ttc26",
+      "group": 7
+    },
+    {
+      "id": "Abt1",
+      "group": 7
+    },
+    {
+      "id": "Bace1",
+      "group": 7
+    },
+    {
+      "id": "Sc5d",
+      "group": 7
+    },
+    {
+      "id": "Cdr2l",
+      "group": 7
+    },
+    {
+      "id": "Usp45",
+      "group": 7
+    },
+    {
+      "id": "9330159F19Rik",
+      "group": 7
+    },
+    {
+      "id": "Cercam",
+      "group": 7
+    },
+    {
+      "id": "Pnpla3",
+      "group": 7
+    },
+    {
+      "id": "Cep97",
+      "group": 7
+    },
+    {
+      "id": "Mmp25",
+      "group": 7
+    },
+    {
+      "id": "Mrpl35",
+      "group": 7
+    },
+    {
+      "id": "Gmeb1",
+      "group": 7
+    },
+    {
+      "id": "Slc2a4",
+      "group": 7
+    },
+    {
+      "id": "Aco1",
+      "group": 7
+    },
+    {
+      "id": "Cbfa2t2",
+      "group": 7
+    },
+    {
+      "id": "Oscp1",
+      "group": 7
+    },
+    {
+      "id": "Ripor2",
+      "group": 7
+    },
+    {
+      "id": "Man2a2",
+      "group": 7
+    },
+    {
+      "id": "Psmb11",
+      "group": 7
+    },
+    {
+      "id": "Exosc1",
+      "group": 7
+    },
+    {
+      "id": "Dqx1",
+      "group": 7
+    },
+    {
+      "id": "Lars2",
+      "group": 7
+    },
+    {
+      "id": "Smco1",
+      "group": 7
+    },
+    {
+      "id": "Ppm1k",
+      "group": 7
+    },
+    {
+      "id": "2810474O19Rik",
+      "group": 7
+    },
+    {
+      "id": "Csrnp3",
+      "group": 7
+    },
+    {
+      "id": "Etv6",
+      "group": 7
+    },
+    {
+      "id": "Ooep",
+      "group": 7
+    },
+    {
+      "id": "Zfp317",
+      "group": 7
+    },
+    {
+      "id": "Zbtb6",
+      "group": 7
+    },
+    {
+      "id": "Mfn1",
+      "group": 7
+    },
+    {
+      "id": "Sox7",
+      "group": 7
+    },
+    {
+      "id": "Ccl9",
+      "group": 7
+    },
+    {
+      "id": "Slc25a42",
+      "group": 7
+    },
+    {
+      "id": "Trmt10a",
+      "group": 7
+    },
+    {
+      "id": "Med18",
+      "group": 7
+    },
+    {
+      "id": "Car9",
+      "group": 7
+    },
+    {
+      "id": "352",
+      "group": 4
+    },
+    {
+      "id": "353",
+      "group": 4
+    },
+    {
+      "id": "Ptpn2",
+      "group": 7
+    },
+    {
+      "id": "Fam219b",
+      "group": 7
+    },
+    {
+      "id": "Gls",
+      "group": 7
+    },
+    {
+      "id": "Ereg",
+      "group": 7
+    },
+    {
+      "id": "Trim27",
+      "group": 7
+    },
+    {
+      "id": "Arhgap19",
+      "group": 7
+    },
+    {
+      "id": "Gaa",
+      "group": 7
+    },
+    {
+      "id": "Lats1",
+      "group": 7
+    },
+    {
+      "id": "Dhx37",
+      "group": 7
+    },
+    {
+      "id": "Slc6a20b",
+      "group": 7
+    },
+    {
+      "id": "Foxl1",
+      "group": 7
+    },
+    {
+      "id": "Rhbdl3",
+      "group": 7
+    },
+    {
+      "id": "Zfp398",
+      "group": 7
+    },
+    {
+      "id": "Nkiras1",
+      "group": 7
+    },
+    {
+      "id": "Zfp799",
+      "group": 7
+    },
+    {
+      "id": "Gnl3l",
+      "group": 7
+    },
+    {
+      "id": "Zdhhc3",
+      "group": 7
+    },
+    {
+      "id": "Akap8",
+      "group": 7
+    },
+    {
+      "id": "Vamp3",
+      "group": 7
+    },
+    {
+      "id": "Nsl1",
+      "group": 7
+    },
+    {
+      "id": "Tcf25",
+      "group": 7
+    },
+    {
+      "id": "Bpnt1",
+      "group": 7
+    },
+    {
+      "id": "Exosc4",
+      "group": 7
+    },
+    {
+      "id": "Hapln4",
+      "group": 7
+    },
+    {
+      "id": "Mga",
+      "group": 7
+    },
+    {
+      "id": "Plek",
+      "group": 7
+    },
+    {
+      "id": "Hist1h2ac",
+      "group": 7
+    },
+    {
+      "id": "Kdm6b",
+      "group": 7
+    },
+    {
+      "id": "Pgpep1",
+      "group": 7
+    },
+    {
+      "id": "Rmi2",
+      "group": 7
+    },
+    {
+      "id": "Abcc9",
+      "group": 7
+    },
+    {
+      "id": "Utp15",
+      "group": 7
+    },
+    {
+      "id": "Pafah1b2",
+      "group": 7
+    },
+    {
+      "id": "Aqp7",
+      "group": 7
+    },
+    {
+      "id": "Lrrn4cl",
+      "group": 7
+    },
+    {
+      "id": "Cflar",
+      "group": 7
+    },
+    {
+      "id": "Rbm8a",
+      "group": 7
+    },
+    {
+      "id": "Mmachc",
+      "group": 7
+    },
+    {
+      "id": "Mroh1",
+      "group": 7
+    },
+    {
+      "id": "Prdx1",
+      "group": 7
+    },
+    {
+      "id": "Bach2",
+      "group": 7
+    },
+    {
+      "id": "B4galnt2",
+      "group": 7
+    },
+    {
+      "id": "Rac2",
+      "group": 7
+    },
+    {
+      "id": "Zfp345",
+      "group": 7
+    },
+    {
+      "id": "Ramp1",
+      "group": 7
+    },
+    {
+      "id": "Tfam",
+      "group": 7
+    },
+    {
+      "id": "Zyg11b",
+      "group": 7
+    },
+    {
+      "id": "Ctsa",
+      "group": 7
+    }
+  ],
+  "links": [
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Ecm2",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Kdelc2",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Ocln",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Nrcam",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Senp5",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Xrcc2",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Nip7",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Tex9",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Grin2b",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Vsig10",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Rnd1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Slc15a1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Lyrm9",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Rbm11",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Rad1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Gjc3",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Stam",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Fadd",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Grap2",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Gtpbp3",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Car8",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Decr2",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Cenpl",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Tspan13",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Osbpl8",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Irak2",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Zfp729a",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Elmo2",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Zfp446",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Sgms2",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Cybrd1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Slc35e1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Fnip2",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Fam208a",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Samd8",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Mdc1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Cracr2b",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Slc8b1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Tbl1xr1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Dnajc1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Agtrap",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Kcnk6",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Mfap1a",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Ppih",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Zbtb44",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Gdpgp1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Syt15",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Rab11b",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Ube2v2",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Kif24",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Tmem263",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Cdk7",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Mkl2",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Mzt1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Epb42",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Iws1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Strbp",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Mbd4",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Timmdc1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Ttc23",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Dhrs7b",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Gng2",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Gfpt1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Wipf2",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Ston2",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "6030458C11Rik",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Siglece",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Mcc",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Ercc6",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Gm4925",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Knop1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Ptk6",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Il1rl1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Gata1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Smad9",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Cts8",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Paxip1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Zfp354a",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Lpp",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Ajuba",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Rinl",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Dars2",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "2010315B03Rik",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Rbm34",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Ddx19b",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Polr1b",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Zbtb8a",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Fam118a",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Dclre1c",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Xkrx",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Dnase2a",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Ttyh1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "C5ar2",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Tigd3",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Slc35e2",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Disp3",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Stom",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Ogfod1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Klhl41",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Cdk8",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Ddo",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "2810006K23Rik",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Dusp3",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Cbln3",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Agl",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Zfp780b",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Bloc1s3",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Kif21b",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Efr3b",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "P2ry4",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "March2",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Cd93",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Zmat3",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Pycr1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Smtnl2",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Tnfrsf10b",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Mcm5",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Cyb5d2",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Tox4",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Isg20l2",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Ube2j2",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Adra2b",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Rfxank",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Senp1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Spib",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Eno2",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Zbtb8b",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Parp11",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "4930519G04Rik",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Gal3st3",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Ccdc127",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Kif3a",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Nosip",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Acer1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Ifnar1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Mfsd11",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Tstd2",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Ranbp3l",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Fam227a",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Pex13",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Ttc26",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Abt1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Bace1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Sc5d",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Cdr2l",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Usp45",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "9330159F19Rik",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Cercam",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Pnpla3",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Cep97",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Mmp25",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Mrpl35",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Gmeb1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Slc2a4",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Aco1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Cbfa2t2",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Oscp1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Ripor2",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Man2a2",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Psmb11",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Exosc1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Dqx1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Lars2",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Smco1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Ppm1k",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "2810474O19Rik",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Csrnp3",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Etv6",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Ooep",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Zfp317",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Zbtb6",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Mfn1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Sox7",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Ccl9",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Slc25a42",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Trmt10a",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Med18",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Car9",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "352",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "353",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Ptpn2",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Fam219b",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Gls",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Ereg",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Trim27",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Arhgap19",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Gaa",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Lats1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Dhx37",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Slc6a20b",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Foxl1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Rhbdl3",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Zfp398",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Nkiras1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Zfp799",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Gnl3l",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Zdhhc3",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Akap8",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Vamp3",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Nsl1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Tcf25",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Bpnt1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Exosc4",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Hapln4",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Mga",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Plek",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Hist1h2ac",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Kdm6b",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Pgpep1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Rmi2",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Abcc9",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Utp15",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Pafah1b2",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Aqp7",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Lrrn4cl",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Cflar",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Rbm8a",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Mmachc",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Mroh1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Prdx1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Bach2",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "B4galnt2",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Rac2",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Zfp345",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Ramp1",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Tfam",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Zyg11b",
+      "value": 1
+    },
+    {
+      "source": "mmu-miR-339-5p",
+      "target": "Ctsa",
+      "value": 1
+    }
+  ]
+}
